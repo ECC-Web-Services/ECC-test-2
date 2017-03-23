@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ECC-Web-Services/ECC-test-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -46,3 +46,12 @@ function fancyAlert(arg) {
   }
 }
 ```
+### Task Lists
+Please make a list of what you want to review and we can check them off as we go.
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] Set-up GitHub accounts.
+- [ ] Set-up a GitHub Project.
+- [ ] Review the GitHub documentation.
+- [ ] Review pull requests.
+- [ ] Make edits to md file using other text editor.
