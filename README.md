@@ -53,5 +53,6 @@ Please make a list of what you want to review and we can check them off as we go
 - [x] Set-up GitHub accounts.
 - [ ] Set-up a GitHub Project.
 - [ ] Review the GitHub documentation.
-- [ ] Review pull requests.
+- [x] Review pull requests.
 - [ ] Make edits to md file using other text editor.
+- [ ] Testing edits on the mac to the task list
