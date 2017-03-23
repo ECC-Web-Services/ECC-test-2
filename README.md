@@ -46,3 +46,9 @@ function fancyAlert(arg) {
   }
 }
 ```
+### Task Lists
+Please make a list of what you want to review and we can check them off as we go.
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
